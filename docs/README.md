@@ -1,14 +1,14 @@
 # Documentation
 
 This is the documentation **source** for this repository.
-g
+
 The **deployed** version of the documentation for this repository is available at:
 
 * https://www.apollographql.com/docs/react/
 
 For general local installation and development instructions, see the [docs site README](https://github.com/apollographql/docs).
 
-In order to build and develop the Apollo Client docs locally, you will need to follow these additional steps:
+In order to build and develop the Apollo Client docss locally, you will need to follow these additional steps:
 
 1. Clone the docs site repository ([https://github.com/apollographql/docs](https://github.com/apollographql/docs)) in a sibling directory to your local copy of the [`apollo-client`](https://github.com/apollographql/apollo-client) repository.
 2. `cd docs && npm i`
